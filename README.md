@@ -46,7 +46,7 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhossein2004-mozafari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amirhossein's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein2004-mozafari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amirhossein2004-mozafari&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=amirhossein2004-mozafari&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+</p>
